@@ -1,4 +1,4 @@
-# Sifreleme ve Sifre Cozme Uygulamasi
+# Sezar Sifreleme ve Sifre Cozme Uygulamasi
 
 Bu basit Python programı, kullanıcıların bir metni şifrelemesine ve ardından şifreli metni çözmesine olanak tanır. Program, kullanıcıdan bir metin ve bir şifreleme / çözme anahtarı girmesini ister. Şifreleme işlemi, Girilen metni Sezar şifreleme algoritmasıyla belirli bir anahtar değeriyle kaydırarak gerçekleştirir. Benzer şekilde, çözme işlemi de metni tersine çevirerek gerçekleştirilir.
 
@@ -43,3 +43,5 @@ Kaç adım öteleneceğini giriniz: 3
 ## Dağıtım
 
 Programın çalıştırılabilir dosyası `dist` klasöründe bulunabilir.
+
+### Not: kodlar sezar.py dosyası içerisindedir
